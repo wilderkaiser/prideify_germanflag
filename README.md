@@ -1,5 +1,5 @@
 <p align='center'>
-  <a href='http://alexpeattie.com/projects/prideify' target='_blank'><img src='https://raw.github.com/alexpeattie/prideify/master/logo.png'></a>
+  <a href='https://github.com/wilderkaiser/prideify_germanflag' target='_blank'><img src='https://github.com/wilderkaiser/prideify_germanflag/master/logo.png'></a>
 </p>
 
 Inspired by [facebook.com/celebratepride](https://facebook.com/celebratepride) - a super-lightweight library (< 100 lines of code) to “prideify” any image using the `<canvas>` element. Licensed under MIT.
@@ -7,12 +7,12 @@ Inspired by [facebook.com/celebratepride](https://facebook.com/celebratepride) -
 There are no external dependencies, although it does integrate with jQuery when it's present :relaxed:.
 
 <p align='center'>
-  <img src='https://raw.github.com/alexpeattie/prideify/master/example.png'>
+  <img src='https://github.com/wilderkaiser/prideify_germanflagy/master/example.png'>
 </p>
 
 ## Live Demo
 
-#### <http://alexpeattie.com/projects/prideify>
+#### <http://artistone.at/em2016/>
 
 ## Usage
 
